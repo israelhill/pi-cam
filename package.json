@@ -1,0 +1,24 @@
+{
+  "name": "pi-cam",
+  "version": "1.0.0",
+  "description": "Home surveillance camera using raspberry pi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelhill/pi-cam.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "camera"
+  ],
+  "author": "Israel Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelhill/pi-cam/issues"
+  },
+  "homepage": "https://github.com/israelhill/pi-cam#readme"
+}
